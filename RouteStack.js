@@ -1,3 +1,13 @@
+/*
+  File: RouteStack.js
+  Author: Pók László,
+  Copyright: 2026, Pók László
+  Group: Szoft II-N
+  Date: 2026-03-31
+  Github: https://github.com/poklaszlo
+  Licenc: MIT
+*/
+
 import { createNativeStackNavigator } from '@react-navigation/native-stack'
 import HomeScreen from './screens/HomeScreen'
 import TriangleScreen from './screens/TriangleScreen'
